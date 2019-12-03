@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activites-et-productions on Agro-club RSE</title>
+    <link>/activites-et-productions/</link>
+    <description>Recent content in Activites-et-productions on Agro-club RSE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:50:47 +0530</lastBuildDate>
+    
+	<atom:link href="/activites-et-productions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Carte des acteurs de l&#39;Agro Club RSE</title>
+      <link>/activites-et-productions/1.carte-des-contributeurs/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/activites-et-productions/1.carte-des-contributeurs/</guid>
+      <description>&lt;p&gt;Ici, vous trouverez une carte geographique qui regroupe des informations sur l&amp;rsquo;ensemble des acteurs membres de l&amp;rsquo;Agro Club RSE, les evenements qui ont lieu au cours des 2 dernieres annees, &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chronologie de nos activités</title>
+      <link>/activites-et-productions/2.-chronologie-des-activites/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/activites-et-productions/2.-chronologie-des-activites/</guid>
+      <description>&lt;p&gt;Consultez la liste des événements, activités, rencontres..&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&#39;Ce que nous avons produit..&#39;</title>
+      <link>/activites-et-productions/3.liste-des-productions/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/activites-et-productions/3.liste-des-productions/</guid>
+      <description>&lt;p&gt;Nos rencontres ont produit des traces! Voici une liste des compte-rendus, études, ressources..&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
