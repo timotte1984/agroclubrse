@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agro-club RSE</title>
+    <title>AgroClubRSE</title>
     <link>/</link>
-    <description>Recent content on Agro-club RSE</description>
+    <description>Recent content on AgroClubRSE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 19:50:47 +0530</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>/activites-et-productions/1.carte-des-contributeurs/</guid>
-      <description>&lt;p&gt;Ici, vous trouverez une carte geographique qui regroupe des informations sur l&amp;rsquo;ensemble des acteurs membres de l&amp;rsquo;Agro Club RSE, les evenements qui ont lieu au cours des 2 dernieres annees, &amp;hellip;&lt;/p&gt;</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,6 +36,15 @@
       
       <guid>/activites-et-productions/3.liste-des-productions/</guid>
       <description>&lt;p&gt;Nos rencontres ont produit des traces! Voici une liste des compte-rendus, études, ressources..&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Où ont eu lieu nos évènements en 2019 ?</title>
+      <link>/activites-et-productions/4.carto-events/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/activites-et-productions/4.carto-events/</guid>
+      <description></description>
     </item>
     
   </channel>

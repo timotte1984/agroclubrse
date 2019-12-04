@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Agro-club RSE"
+title = "AgroClubRSE"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
-  description = "Espaces de rencontre et de coopération pour innover positivement sur la société par l'agro-alimentaire, dans les Hauts-de-France."
+  style = "blue"
+  description = "Bienvenue sur la plateforme dédié à l'AgroClubRSE."
   copyright = "&copy;2019 AGRO CLUB RSE"
   sidebarAbout = [
-    " Quels espaces de rencontre et de coopération pour tous les acteurs qui souhaitent innover positivement sur la société par l'agro-alimentaire, dans les Hauts-de-France?"  ]
+    " Bienvenue sur la plateforme dédié à l'AgroClubRSE"  ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -40,7 +40,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Activités et Productions"
+  name = "La vie de l'AgroClubRSE "
   url = "activites-et-productions/"
   home = true
 
