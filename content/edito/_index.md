@@ -3,8 +3,7 @@ date = "2019-12-03T21:05:33+05:30"
 title = "Edito"
 +++
 
-# Edito 
+# Edito
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* A venir :).
 

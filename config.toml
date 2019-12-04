@@ -10,11 +10,11 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "blue"
-  description = "Bienvenue sur la plateforme dédié à l'AgroClubRSE."
-  copyright = "&copy;2019 AGRO CLUB RSE"
+  style = "green"
+  description = "L'AgroClubRSE, la communauté des entreprises agro engagées."
+  copyright = "&copy;2019 AGROCLUBRSE"
   sidebarAbout = [
-    " Bienvenue sur la plateforme dédié à l'AgroClubRSE"  ]
+    "l'AgroClubRSE est une communauté d'entreprises agroalimentaires des hauts-de-france souhaitant progresser en RSE ensemble."  ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -41,7 +41,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "La vie de l'AgroClubRSE "
-  url = "activites-et-productions/"
+  url = "agroclubrse-is-for-you/"
   home = true
 
   [[params.navlinks]]
@@ -54,7 +54,6 @@ googleAnalytics = ""
 
   [params.social]
   email         = "j.mottet@agroe.fr"
-  linkedin      = "full profile url in linkedin"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
-  github        = "full profile url in github"
+  linkedin      = "https://www.linkedin.com/company/18518876/admin/"
+  youtube       = "https://www.youtube.com/channel/UCinUo8-stq3edw4Ozo2qRAg/videos"
+  facebook      = "https://www.facebook.com/poleagroe/"
