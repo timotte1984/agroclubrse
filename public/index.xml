@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>Webinaire - Habib Belaribi - Communication</title>
-      <link>/agroclubrse-is-for-you/1.webinaire3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>La carte des évènements et des adhérents</title>
+      <link>/agroclubrse-is-for-you/4.carte/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/agroclubrse-is-for-you/1.webinaire3/</guid>
+      <guid>/agroclubrse-is-for-you/4.carte/</guid>
       <description></description>
     </item>
     
@@ -39,6 +39,24 @@
     </item>
     
     <item>
+      <title>Tous les épisodes de l&#39;AgroClubPodcast</title>
+      <link>/agroclubrse-is-for-you/6.podcastindex/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/agroclubrse-is-for-you/6.podcastindex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webinaire - Habib Belaribi - Communication</title>
+      <link>/agroclubrse-is-for-you/1.webinaire3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/agroclubrse-is-for-you/1.webinaire3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>La Veille de Novembre</title>
       <link>/agroclubrse-is-for-you/3.veille/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
@@ -48,29 +66,11 @@
     </item>
     
     <item>
-      <title>La carte des évènements et des adhérents</title>
-      <link>/agroclubrse-is-for-you/4.carte/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/agroclubrse-is-for-you/4.carte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visite de l&#39;intermarché de Cysoing</title>
       <link>/agroclubrse-is-for-you/5.intermarche/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>/agroclubrse-is-for-you/5.intermarche/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tous les épisodes de l&#39;AgroClubPodcast</title>
-      <link>/agroclubrse-is-for-you/6.podcastindex/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/agroclubrse-is-for-you/6.podcastindex/</guid>
       <description></description>
     </item>
     
