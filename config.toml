@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "green"
+  style = "violet"
   description = "L'AgroClubRSE, communauté agro engagée."
   copyright = "&copy;2019 AgroClubRSE - Gestion: Julien Mottet"
   sidebarAbout = [
