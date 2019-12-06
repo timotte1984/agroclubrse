@@ -3,47 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/agroclubrse-is-for-you/9.calendrier/</loc>
+    <loc>/agroclubrse-post/12.lieux/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/agroclubrse-is-for-you/4.carte/</loc>
+    <loc>/agroclubrse-post/11.calendrier/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/agroclubrse-is-for-you/2.experts/</loc>
+    <loc>/agroclubrse-post/10.invites/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/agroclubrse-is-for-you/6.podcastindex/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-is-for-you/1.webinaire3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-is-for-you/3.veille/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-is-for-you/5.intermarche/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-is-for-you/7.emballages-durables/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-is-for-you/8.nous-rejoindre/</loc>
+    <loc>/agroclubrse-post/13.rejoindre/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
@@ -63,8 +38,18 @@
   </url>
   
   <url>
-    <loc>/agroclubrse-is-for-you/</loc>
+    <loc>/agroclubrse-post/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agroclubrse-post/14.adherents/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/agroclubrse-post/15.questions/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
