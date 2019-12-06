@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/agroclubrse-post/11.calendrier/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/agroclubrse-post/12.lieux/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/agroclubrse-post/11.calendrier/</loc>
+    <loc>/agroclubrse-post/14.adherents/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
@@ -19,6 +24,21 @@
   
   <url>
     <loc>/agroclubrse-post/13.rejoindre/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agroclubrse-post/16.equipe/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agroclubrse-post/17.vide/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/agroclubrse-post/15.questions/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
@@ -40,16 +60,6 @@
   <url>
     <loc>/agroclubrse-post/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-post/14.adherents/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/agroclubrse-post/15.questions/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

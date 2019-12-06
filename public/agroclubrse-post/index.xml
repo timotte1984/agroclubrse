@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>...de travail.</title>
-      <link>/agroclubrse-post/12.lieux/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/agroclubrse-post/12.lieux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>...des évènements</title>
       <link>/agroclubrse-post/11.calendrier/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
@@ -30,7 +21,25 @@
     </item>
     
     <item>
-      <title>...à parler</title>
+      <title>...en Hauts-de-France.</title>
+      <link>/agroclubrse-post/12.lieux/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/agroclubrse-post/12.lieux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>...engagés !</title>
+      <link>/agroclubrse-post/14.adherents/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/agroclubrse-post/14.adherents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>... qui nous éduquent.</title>
       <link>/agroclubrse-post/10.invites/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
@@ -48,37 +57,30 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/agroclubrse-post/14.adherents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>...d&#39;animation</title>
+      <link>/agroclubrse-post/16.equipe/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/agroclubrse-post/14.adherents/</guid>
-      <description>&lt;p&gt;14.adherents.png
-+++
-draft = false
-image = &amp;ldquo;14.adhrents.png&amp;rdquo;
-showonlyimage = true
-date = &amp;ldquo;2016-11-05T19:50:47+05:30&amp;rdquo;
-title = &amp;ldquo;&amp;hellip;engagés !&amp;rdquo;
-weight = 2
-+++&lt;/p&gt;</description>
+      <guid>/agroclubrse-post/16.equipe/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
+      <title>...</title>
+      <link>/agroclubrse-post/17.vide/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/agroclubrse-post/17.vide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>...on répond !</title>
       <link>/agroclubrse-post/15.questions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>/agroclubrse-post/15.questions/</guid>
-      <description>&lt;p&gt;15.questions.png
-+++
-draft = false
-image = &amp;ldquo;15.questions.png&amp;rdquo;
-showonlyimage = true
-date = &amp;ldquo;2016-11-05T19:50:47+05:30&amp;rdquo;
-title = &amp;ldquo;&amp;hellip;vous avez ?&amp;rdquo;
-weight = 2
-+++&lt;/p&gt;</description>
+      <description></description>
     </item>
     
   </channel>
