@@ -5,5 +5,6 @@ title = "Edito"
 
 # Edito
 
-* A venir :).
-
+* AgroClubRSE est une communauté d'entreprises agroalimentaires des Hauts-de-France de tout taille qui souhaitent mieux comprendre les conséquences de la révolution numérique et sociétale sur leurs activités et adapter leurs pratiques.
+* Nos partageons nos compétences, nos connaissances et nos réseaux pour trouver des solutions et avancer plus vite.
+* Certaines entreprises passent ensuite à l'action. Les animateurs mobilise alors des experts et des sources de financement.
