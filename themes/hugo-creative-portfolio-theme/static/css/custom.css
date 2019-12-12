@@ -3,3 +3,9 @@ table, th, td{
   width: 800px;
   text-align: center;
 }/* your styles go here */
+
+box-masonry{
+  border-style: line;
+  border-width: 5px;
+  border-color: #9E9E9E;
+}
