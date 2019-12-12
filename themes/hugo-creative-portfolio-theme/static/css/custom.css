@@ -1,11 +1,7 @@
-table, th, td{
+table, th, td {
   border: 1px solid black;
   width: 800px;
   text-align: center;
 }/* your styles go here */
 
-box-masonry{
-  border-style: line;
-  border-width: 5px;
-  border-color: #9E9E9E;
-}
+
