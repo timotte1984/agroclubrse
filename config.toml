@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "AgroClubRSE"
+title = "Agroé"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Pole Agroé"
+  description = "Agroé"
   copyright = "&copy;2019 Agroé - Gestion: Julien Mottet"
   sidebarAbout = [
-    "Le Pôle Agroé accompagne les entreprises agroalimentaires des Hauts-de-France dans l'adaptation aux nouveaux enjeux de la révolution numérique et sociétale."  ]
+    "La structure référente de la transition sociétale et numérique du secteur agroalimentaire en Hauts-de-France."  ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
@@ -40,13 +40,21 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Agroé"
-  url = "agroe-post/"
+  name = "Réalisations"
+  url = "1realisation/"
   home = true
 
   [[params.navlinks]]
-  name = "Edito"
-  url = "edito/"
+  name = "Qui sommes-nous ?"
+  url = "2edito/"
+
+  [[params.navlinks]]
+  name = "Que peut-on vous apporter ?"
+  url = "3services/"
+
+  [[params.navlinks]]
+  name = "Adhérer"
+  url = "4adhesion/"
 
   [[params.navlinks]]
   name = "Contact"

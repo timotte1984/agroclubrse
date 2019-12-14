@@ -1,15 +1,3 @@
-
-+++
-draft = false
-image = "13.rejoindre.png"
-showonlyimage = true
-date = "2016-11-05T19:50:47+05:30"
-title = "Accéder à nos services"
-weight = 5
-+++
-
-<!--more-->
-
 Au choix :
 
 #### [**Adhésion Agroé**](https://res.cloudinary.com/julienmottet/image/upload/v1559853153/bulletin-adhesion_Agroe_06062019.pdf)
